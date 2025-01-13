@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "5dbb8b765908c4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1441d60412e63d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21eff14f0c8f21d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2494efb65a12990a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d92057ba50d4aef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fea1229ae538ffd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f4870c83ad5e5b5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f33b9596e50a70d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "44661d6a15388c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8912d3857e0ac09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4e0f993b7b0eaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课堂笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 课堂笔记"
+            }
+          },
+          {
+            "id": "680708489427fe9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "课堂笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 课堂笔记"
+            }
+          },
+          {
+            "id": "30d06bdd41378cbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8dddf1c334f28498",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cheatsheet.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cheatsheet"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "21eff14f0c8f21d7",
+  "lastOpenFiles": [
+    "homework/20250111.pdf",
+    "Cheatsheet.pdf",
+    "homework/20250111.md",
+    "pics/Cheatsheet.png",
+    "pics/github仓库.png",
+    "homework/20241217.md",
+    "class/课堂笔记.md",
+    "class/written_exam_20241210.pdf",
+    "class/计算机科学导论（第4版） (【美】贝赫鲁兹·佛罗赞 著 吕云翔 杨洪洋 曾洪立 等译) (Z-Library).pdf",
+    "homework/20241205.md",
+    "answers/2020fall_cs101.openjudge.cn_problems.md",
+    "Cheatsheet.md",
+    "class/20241203_knowledgeGraph_cs101-AlgoDS.pdf",
+    "class/20241217_programming_practice.pdf",
+    "class/20241119_searching.pdf",
+    "homework/20241022.md",
+    "homework/20241029.md",
+    "homework/20241210.md",
+    "homework/20241210.pdf",
+    "pics/ASCII.png",
+    "ASCII.png",
+    "Pasted image 20241224161646.png",
+    "codes/OJ07622.py",
+    "class/20241022_interval_sorting_monotonicStack.pdf",
+    "class/20241029_recursion.pdf",
+    "answers/2020fall_Codeforces_problems.md",
+    "homework/20241126.md",
+    "homework/20241119.md",
+    "homework/20241112.md",
+    "homework/20241107.md",
+    "homework/20241015.md",
+    "homework/20241013.md",
+    "homework/20240924.md",
+    "Pasted image 20241223105252.png",
+    "pics/中国剩余定理.png",
+    "注意点.md",
+    "pics/OJ-08210.png",
+    "pics/蛇年Logo.jpg",
+    "class/written_exam_20241210.md",
+    "pics/OJ-27373.png",
+    "homework/20240920.md",
+    "出过的错.md",
+    "homework/assignmentD.md",
+    "美国：兴起的帝国.md",
+    "f.md",
+    "Untitled.canvas",
+    "2024-10-29.md"
+  ]
+}
