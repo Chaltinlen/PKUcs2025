@@ -2,5 +2,6 @@
   "cssTheme": "Maple",
   "textFontFamily": "思源黑体",
   "accentColor": "#c57e1b",
-  "theme": "system"
+  "theme": "system",
+  "showRibbon": false
 }
