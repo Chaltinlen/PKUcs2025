@@ -129,7 +129,7 @@ if __name__ == '__main__':
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
 
-![[LC-1760.png]]
+![LC-1760](https://raw.githubusercontent.com/Chaltinlen/PKUcs2025/master/pics/LC-1760.png)
 
 
 
@@ -175,7 +175,7 @@ print(lo)
 
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
-![[OJ-04135.png]]
+![OJ-04135](https://raw.githubusercontent.com/Chaltinlen/PKUcs2025/master/pics/OJ-04135.png)
 
 
 
@@ -213,7 +213,7 @@ for key, val in groupby(model, key=lambda t: t[0]):
 
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
-![[OJ-27300.png]]
+![OJ-27300](https://raw.githubusercontent.com/Chaltinlen/PKUcs2025/master/pics/OJ-27300.png)
 
 
 

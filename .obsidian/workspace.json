@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "8fbb36fe165823aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homework/Assignment 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment 3"
+            }
+          },
+          {
             "id": "805391102fefa9d8",
             "type": "leaf",
             "state": {
@@ -34,20 +48,9 @@
               "icon": "lucide-file",
               "title": "Assignment 2"
             }
-          },
-          {
-            "id": "7cbbabd8f7ae53d2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,31 +193,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21eff14f0c8f21d7",
+  "active": "8fbb36fe165823aa",
   "lastOpenFiles": [
-    "codes/OJ02488-A_Knights_Journey.py",
+    "homework/Assignment 3.pdf",
+    "pics/OJ-06648.png",
+    "pics/OJ-02488.png",
+    "pics/OJ-04133.png",
+    "pics/OJ-02092.png",
+    "pics/OJ-02039.png",
+    "pics/OJ-04015.png",
     "homework/Assignment 2.md",
+    "pics/Django.png",
+    "pics/Jupyter.png",
+    "homework/Assignment 2.pdf",
     "homework/Assignment 1.md",
+    "codes/OJ06648-Sequence.py",
+    "homework/Assignment 1.pdf",
+    "homework/Assignment 3.md",
+    "codes/OJ02488-A_Knights_Journey.py",
     "pics/Iris_network.png",
     "class/Python核心编程 (Wesley Chun) (Z-Library).pdf",
     "class/Python核心编程 第3版 ([美]卫斯理 春（Wesley Chun）) (Z-Library).azw3",
     "class/Python核心编程 第3版 ([美]卫斯理 春（Wesley Chun） [[美]卫斯理 春（Wesley Chun）]) (Z-Library).epub",
     "class/Python核心编程 第3版 (卫斯理·春,Wesley Chun) (Z-Library).epub",
     "pics/CtrlCV.png",
-    "pics/OJ-04093.png",
-    "pics/OJ-06640.png",
-    "pics/OJ-19942.png",
-    "pics/OJ-04140.png",
-    "pics/OJ-18161.png",
     "codes/OJ04093-倒排索引查询.py",
     "codes/OJ06640-倒排索引.py",
-    "codes/OJ04140-方程求解.py",
-    "codes/OJ19942-二维矩阵上的卷积运算.py",
-    "codes/OJ18161-矩阵运算.py",
-    "class/20250218_VM_Shell_LLMs.pdf",
-    "pics/OJ-27300.png",
-    "pics/OJ-04135.png",
-    "pics/LC-1760.png",
     "homework/20250111.md",
     "homework/20241217.md",
     "class/课堂笔记.md",
@@ -237,7 +241,6 @@
     "homework/20240920.md",
     "出过的错.md",
     "homework/assignmentD.md",
-    "美国：兴起的帝国.md",
     "Untitled.canvas"
   ]
 }
