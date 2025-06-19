@@ -305,8 +305,8 @@
         "codeblockLangItalicText": true,
         "alwaysDisplayCodeblockLang": false,
         "alwaysDisplayCodeblockIcon": false,
-        "displayCodeBlockLanguage": true,
-        "displayCodeBlockIcon": false,
+        "displayCodeBlockLanguage": false,
+        "displayCodeBlockIcon": true,
         "disableFoldUnlessSpecified": false
       },
       "gutter": {
@@ -400,7 +400,7 @@
   "alternateHighlightColorName": "",
   "languageBorderColorName": "",
   "foldAllCommand": false,
-  "settingsType": "codeblock",
+  "settingsType": "gutter",
   "langSpecificSettingsType": "",
   "languageSpecificLanguageName": ""
 }

@@ -4,53 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "1441d60412e63d90",
+        "id": "33be69c80e0c921f",
         "type": "tabs",
         "children": [
           {
-            "id": "21eff14f0c8f21d7",
+            "id": "0477cbc8d74763ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Assignment 1.md",
+                "file": "homework/Assignment D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 1"
+              "title": "Assignment D"
             }
           },
           {
-            "id": "8fbb36fe165823aa",
+            "id": "6eef614fcd23e368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Assignment 3.md",
+                "file": "Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 3"
+              "title": "Cheatsheet"
             }
           },
           {
-            "id": "805391102fefa9d8",
+            "id": "8b38fa7d4458c272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homework/Assignment 2.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 2"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,54 +193,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fbb36fe165823aa",
+  "active": "8b38fa7d4458c272",
   "lastOpenFiles": [
-    "homework/Assignment 3.pdf",
-    "pics/OJ-06648.png",
-    "pics/OJ-02488.png",
-    "pics/OJ-04133.png",
-    "pics/OJ-02092.png",
-    "pics/OJ-02039.png",
-    "pics/OJ-04015.png",
-    "homework/Assignment 2.md",
-    "pics/Django.png",
-    "pics/Jupyter.png",
-    "homework/Assignment 2.pdf",
-    "homework/Assignment 1.md",
-    "codes/OJ06648-Sequence.py",
-    "homework/Assignment 1.pdf",
+    "Cheatsheet.md",
+    "Untitled.md",
+    "Cheatsheet.pdf",
+    "codes/OJ28276-判断等价关系是否成立.py",
+    "codes/OJ28276-判断等价关系是否成立.pu",
+    "codes/OJ28193-谣言.py",
+    "codes/OJ28103-堆路径.py",
+    "codes/OJ28012-受限条件下可到达节点的数目.py",
+    "codes/OJ28186-分糖果.py",
+    "codes/OJ27933-Okabe_and_Boxes.py",
+    "codes/OJ28190-奶牛排队.py",
+    "codes/OJ27635-判断无向图是否连通有无回路.py",
+    "homework/Assignment B.md",
+    "homework/Assignment A.md",
+    "homework/Assignment 9.md",
+    "homework/Assignment 7.md",
+    "homework/Assignment 8.md",
+    "class/Hash Table & KMP.md",
+    "homework/Assignment D.md",
+    "homework/Assignment C.md",
+    "homework/Assignment 5.md",
+    "pics/OJ-22508.png",
+    "pics/OJ-03424.png",
+    "pics/LC-787.png",
+    "pics/LC-3552.png",
+    "pics/LC-3225.png",
+    "pics/f1e8af0637049f370779ff8e1ea0497.png",
+    "pics/OJ-01258.png",
+    "pics/OJ-17975.png",
+    "class/20250421_week10-13_graph.md.md",
+    "pics/OJ-24637.png",
+    "pics/OJ-07735.png",
+    "Untitled 1.md",
+    "homework/Assignment 4.md",
+    "homework/Assignment 6.md",
     "homework/Assignment 3.md",
-    "codes/OJ02488-A_Knights_Journey.py",
-    "pics/Iris_network.png",
-    "class/Python核心编程 (Wesley Chun) (Z-Library).pdf",
-    "class/Python核心编程 第3版 ([美]卫斯理 春（Wesley Chun）) (Z-Library).azw3",
-    "class/Python核心编程 第3版 ([美]卫斯理 春（Wesley Chun） [[美]卫斯理 春（Wesley Chun）]) (Z-Library).epub",
-    "class/Python核心编程 第3版 (卫斯理·春,Wesley Chun) (Z-Library).epub",
-    "pics/CtrlCV.png",
-    "codes/OJ04093-倒排索引查询.py",
-    "codes/OJ06640-倒排索引.py",
+    "homework/Assignment 2.md",
+    "homework/Assignment 1.md",
     "homework/20250111.md",
     "homework/20241217.md",
     "class/课堂笔记.md",
     "homework/20241205.md",
     "answers/2020fall_cs101.openjudge.cn_problems.md",
-    "Cheatsheet.md",
     "homework/20241022.md",
     "homework/20241029.md",
     "homework/20241210.md",
-    "answers/2020fall_Codeforces_problems.md",
-    "homework/20241126.md",
-    "homework/20241119.md",
-    "homework/20241112.md",
-    "homework/20241107.md",
-    "homework/20241015.md",
-    "homework/20241013.md",
-    "homework/20240924.md",
-    "注意点.md",
-    "class/written_exam_20241210.md",
-    "homework/20240920.md",
-    "出过的错.md",
-    "homework/assignmentD.md",
     "Untitled.canvas"
   ]
 }

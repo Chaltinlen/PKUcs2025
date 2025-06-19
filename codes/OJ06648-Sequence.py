@@ -16,24 +16,24 @@ def main():
             ptr += n
             seq.sort()
             sequences.append(seq)
-        print(sequences)
         prev_sums = sequences[0].copy()
         for i in range(1, m):
+            print(prev_sums)
             curr = sequences[i]
             heap = []
             for i_prev in range(n):
                 s = prev_sums[i_prev] + curr[0]
                 heapq.heappush(heap, (s, i_prev, 0))
-                print(heap)
             new_sums = []
             while len(new_sums) < n and heap:
+                print(heap)
                 s, i_prev, j_curr = heapq.heappop(heap)
                 new_sums.append(s)
                 if j_curr + 1 < n:
                     next_j = j_curr + 1
                     next_s = prev_sums[i_prev] + curr[next_j]
                     heapq.heappush(heap, (next_s, i_prev, next_j))
-                    print(heap)
+                    
             prev_sums = new_sums
         print(' '.join(map(str, prev_sums)))
 
